@@ -33,6 +33,7 @@
 - [discordgo](https://github.com/bwmarrin/discordgo) - Go bindings for Discord
   - [dgrs](https://github.com/zekroTJA/dgrs) - A (WIP) DiscordGo state manager using Redis
   - [ken](https://github.com/zekroTJA/ken/) - A cutting edge (haha), object-oriented and highly modular application command handler for Discordgo
+  - [Shards](https://github.com/servusdei2018/shards) - Configurable, scalable and automatic sharding library for discordgo.
 - [disgo](https://github.com/disgoorg/disgo) - A modular Golang Discord API Wrapper
 - [disgord](https://github.com/andersfylling/disgord) - Go module for interacting with the documented Discord's bot interface
 
