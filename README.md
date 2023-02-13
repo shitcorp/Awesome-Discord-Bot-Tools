@@ -13,6 +13,8 @@
   - [Python](#python)
   - [Rust](#rust)
 
+- [MISC](#misc)
+
 ---
 
 ## Alternate Gateways
@@ -65,6 +67,10 @@
 
 - [serenity](https://github.com/serenity-rs/serenity) - A Rust library for the Discord API
 - [Twilight](https://twilight.rs/) - **twilight** is a powerful asynchronous, flexible, and scalable ecosystem of Rust libraries for the Discord API
+
+## MISC
+
+- [BotBlock.org](https://botblock.org/) - The single source for all Discord bot lists. Simplify sending your bot's guild count with the BotBlock API.
 
 ---
 
