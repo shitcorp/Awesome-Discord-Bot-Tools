@@ -36,6 +36,8 @@
 
 ### JavaScript
 
+- [detritusjs](https://github.com/detritusjs) (dead) - A wheels-attached, pure-TypeScript library for the Discord API.
+
 - [discord.js](https://discord.js.org/#/) - The most popular discord bot framework
 
   - [discord-cross-hosting](https://github.com/meister03/discord-cross-hosting) - Scale discord.js horizontally
