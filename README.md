@@ -12,6 +12,7 @@
   - [Crystal](#crystal)
   - [Go](#go)
   - [JavaScript](#javascript)
+  - [Lua](#lua)
   - [Multi Lang](#multi-lang)
   - [PHP](#php)
   - [Python](#python)
@@ -83,6 +84,10 @@
 - [Discord4j](https://github.com/Discord4J/Discord4J) - Discord4J is a fast, powerful, unopinionated, reactive library to enable quick and easy development
 - [Javacord](https://github.com/Javacord/Javacord) - An easy to use multithreaded library for creating Discord bots in Java.
 - [Kord](https://github.com/kordlib/kord) - Idiomatic Kotlin Wrapper for The Discord API
+
+### Lua
+
+- [Discordia](https://github.com/SinisterRectus/Discordia) - Discord API library written in Lua for the Luvit runtime environment
 
 ### Multi Lang
 
