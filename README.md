@@ -60,6 +60,12 @@
 - [Paracord](https://github.com/paracordjs/paracord) (dead) - NodeJS Discord API framework built to scale
 - [Weather Stack](https://github.com/DasWolke/CloudStorm) - Ecosystem of tools for microservice Discord bots
 
+### JVM
+
+> Languages like Java, Scala, and Kotlin
+
+- [Discord4j](https://github.com/Discord4J/Discord4J) - Discord4J is a fast, powerful, unopinionated, reactive library to enable quick and easy development
+
 ### Multi Lang
 
 - [Spectacles](https://github.com/spec-tacles) - A distributed Discord API wrapper
