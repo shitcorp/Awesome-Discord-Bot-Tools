@@ -11,6 +11,7 @@
   - [Go](#go)
   - [JavaScript](#javascript)
   - [Multi Lang](#multi-lang)
+  - [PHP](#php)
   - [Python](#python)
   - [Rust](#rust)
 
@@ -71,6 +72,10 @@
 ### Multi Lang
 
 - [Spectacles](https://github.com/spec-tacles) - A distributed Discord API wrapper
+
+### PHP
+
+- [DiscordPHP](https://github.com/discord-php/DiscordPHP) - An API to interact with the popular messaging app Discord
 
 ### Python
 
