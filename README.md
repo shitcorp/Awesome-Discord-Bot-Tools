@@ -7,6 +7,7 @@
 - [Alternate Gateways](#alternate-gateways)
 - [Libraries](#libraries)
 
+  - [C#](#c)
   - [Go](#go)
   - [JavaScript](#javascript)
   - [Multi Lang](#multi-lang)
