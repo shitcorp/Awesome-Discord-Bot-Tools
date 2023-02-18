@@ -79,6 +79,8 @@
 
 ### Multi Lang
 
+> Libraries designed for multiple languages
+
 - [Spectacles](https://github.com/spec-tacles) - A distributed Discord API wrapper
 
 ### PHP
