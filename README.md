@@ -8,6 +8,7 @@
 - [Libraries](#libraries)
 
   - [C#](#c)
+  - [C++](#c-1)
   - [Crystal](#crystal)
   - [Go](#go)
   - [JavaScript](#javascript)
@@ -34,6 +35,10 @@
 
 - [Discord.Net](https://github.com/discord-net/Discord.Net) An unofficial .Net wrapper for the Discord API
 - [DSharpPlus](https://github.com/DSharpPlus/DSharpPlus) - A .NET Standard library for making bots using the Discord API.
+
+### C++
+
+- [D++](https://github.com/brainboxdotcc/DPP) - D++ is Lightweight and scalable for small and huge bots!
 
 ### Crystal
 
