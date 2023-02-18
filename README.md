@@ -10,6 +10,7 @@
   - [C#](#c)
   - [C++](#c-1)
   - [Crystal](#crystal)
+  - [Elixir](#elixir)
   - [Go](#go)
   - [JavaScript](#javascript)
   - [Lua](#lua)
@@ -44,6 +45,10 @@
 ### Crystal
 
 - [discordcr](https://github.com/shardlab/discordcr) - Minimalist Discord library for Crystal
+
+### Elixir
+
+- [Nostrum](https://github.com/Kraigie/nostrum) - An Elixir library for the Discord API.
 
 ### Go
 
