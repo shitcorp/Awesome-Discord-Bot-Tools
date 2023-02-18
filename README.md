@@ -7,8 +7,9 @@
 - [Alternate Gateways](#alternate-gateways)
 - [Libraries](#libraries)
 
-  - [C#](#c)
-  - [C++](#c-1)
+  - [C](#c)
+  - [C#](#c-1)
+  - [C++](#c-2)
   - [Crystal](#crystal)
   - [Elixir](#elixir)
   - [Go](#go)
@@ -32,6 +33,10 @@
 ---
 
 ## Libraries
+
+### C
+
+- [Concord](https://github.com/Cogmasters/concord) - A Discord API wrapper library made in C
 
 ### C#
 
