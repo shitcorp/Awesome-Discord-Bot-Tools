@@ -67,6 +67,7 @@
   - [megane](https://github.com/brussell98/megane) - A framework for large multi-process Discord bots
   - [redis-sharder](https://github.com/privy-gg/redis-sharder) - Scalable and robust sharding solution for the Eris discord library.
 - [Paracord](https://github.com/paracordjs/paracord) (dead) - NodeJS Discord API framework built to scale
+- [slash-create](https://github.com/Snazzah/slash-create) - Creator and handler for Discord's slash commands
 - [Weather Stack](https://github.com/DasWolke/CloudStorm) - Ecosystem of tools for microservice Discord bots
 
 ### JVM
