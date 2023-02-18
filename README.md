@@ -29,6 +29,7 @@
 ### C#
 
 - [Discord.Net](https://github.com/discord-net/Discord.Net) An unofficial .Net wrapper for the Discord API
+- [DSharpPlus](https://github.com/DSharpPlus/DSharpPlus) - A .NET Standard library for making bots using the Discord API.
 
 ### Go
 
