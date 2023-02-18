@@ -8,6 +8,7 @@
 - [Libraries](#libraries)
 
   - [C#](#c)
+  - [Crystal](#crystal)
   - [Go](#go)
   - [JavaScript](#javascript)
   - [Multi Lang](#multi-lang)
@@ -33,6 +34,10 @@
 
 - [Discord.Net](https://github.com/discord-net/Discord.Net) An unofficial .Net wrapper for the Discord API
 - [DSharpPlus](https://github.com/DSharpPlus/DSharpPlus) - A .NET Standard library for making bots using the Discord API.
+
+### Crystal
+
+- [discordcr](https://github.com/shardlab/discordcr) - Minimalist Discord library for Crystal
 
 ### Go
 
