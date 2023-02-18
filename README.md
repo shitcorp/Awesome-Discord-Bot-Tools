@@ -37,6 +37,7 @@
 ### C
 
 - [Concord](https://github.com/Cogmasters/concord) - A Discord API wrapper library made in C
+- [Orca](https://github.com/cee-studio/orca) - C Multi-REST API library for Discord, Slack, Reddit, etc.
 
 ### C#
 
