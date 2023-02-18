@@ -75,6 +75,7 @@
 > Languages like Java, Scala, and Kotlin
 
 - [Discord4j](https://github.com/Discord4J/Discord4J) - Discord4J is a fast, powerful, unopinionated, reactive library to enable quick and easy development
+- [Kord](https://github.com/kordlib/kord) - Idiomatic Kotlin Wrapper for The Discord API
 
 ### Multi Lang
 
