@@ -13,6 +13,7 @@
   - [Multi Lang](#multi-lang)
   - [PHP](#php)
   - [Python](#python)
+  - [Ruby](#ruby)
   - [Rust](#rust)
 
 - [MISC](#misc)
@@ -81,6 +82,10 @@
 
 - [discord.py](https://discordpy.readthedocs.io/en/stable/) - An API wrapper for Discord written in Python.
 - [Nextcord](https://github.com/nextcord/nextcord) - A Python wrapper for the Discord API forked from discord.py
+
+### Ruby
+
+- [discordrb](https://github.com/shardlab/discordrb) - Discord API for Ruby
 
 ### Rust
 
