@@ -107,6 +107,7 @@
 ### Python
 
 - [discord.py](https://discordpy.readthedocs.io/en/stable/) - An API wrapper for Discord written in Python.
+  - [jishaku](https://github.com/Gorialis/jishaku) - A debugging and testing cog for discord.py rewrite bots.
 - [hikari](https://github.com/hikari-py/hikari) - A Discord API wrapper for Python and asyncio built on good intentions.
 - [interactions.py](https://github.com/interactions-py/interactions.py) - A highly extensible, easy to use, and feature complete bot framework for Discord
 - [Nextcord](https://github.com/nextcord/nextcord) - A Python wrapper for the Discord API forked from discord.py
