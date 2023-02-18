@@ -86,6 +86,7 @@
 ### Python
 
 - [discord.py](https://discordpy.readthedocs.io/en/stable/) - An API wrapper for Discord written in Python.
+- [hikari](https://github.com/hikari-py/hikari) - A Discord API wrapper for Python and asyncio built on good intentions.
 - [Nextcord](https://github.com/nextcord/nextcord) - A Python wrapper for the Discord API forked from discord.py
 
 ### Ruby
