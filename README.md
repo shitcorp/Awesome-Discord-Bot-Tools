@@ -73,7 +73,8 @@
 
 ### Python
 
-- [discord.py](https://discordpy.readthedocs.io/en/stable/)
+- [discord.py](https://discordpy.readthedocs.io/en/stable/) - An API wrapper for Discord written in Python.
+- [Nextcord](https://github.com/nextcord/nextcord) - A Python wrapper for the Discord API forked from discord.py
 
 ### Rust
 
