@@ -66,6 +66,7 @@
   - [discord.js-light](https://github.com/timotejroiko/discord.js-light) - All the power of discord.js, zero caching
   - [Kurasuta](https://github.com/DevYukine/Kurasuta) - Discord.js sharder with clustering support
 
+- [Discordeno](https://github.com/discordeno/discordeno) - Discord API library for Deno
 - [Eris](https://abal.moe/Eris/) - A lightweight and flexible library
   - [eris-fleet](https://github.com/danclay/eris-fleet/) - Cluster management for Discord bots using the Eris library
   - [eris-sharder](https://github.com/discordware/eris-sharder) (dead) - Sharding manager for the discord Eris library
