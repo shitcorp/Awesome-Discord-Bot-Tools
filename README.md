@@ -26,6 +26,10 @@
 
 ## Libraries
 
+### C#
+
+- [Discord.Net](https://github.com/discord-net/Discord.Net) An unofficial .Net wrapper for the Discord API
+
 ### Go
 
 - [arikawa](https://github.com/diamondburned/arikawa) - A Golang library and framework for the Discord API
