@@ -131,6 +131,7 @@
 ## MISC
 
 - [BotBlock.org](https://botblock.org/) - The single source for all Discord bot lists. Simplify sending your bot's guild count with the BotBlock API.
+- [discohook](https://discohook.org/) - Easily preview embeds
 - [gateway-queue](https://github.com/twilight-rs/gateway-queue) - Ratelimited gateway queue for multiserviced bots.
 - [http-proxy](https://github.com/twilight-rs/http-proxy) - A ratelimited HTTP proxy in front of the Discord API
 
