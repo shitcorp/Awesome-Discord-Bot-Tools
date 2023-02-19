@@ -23,6 +23,7 @@
   - [Rust](#rust)
 
 - [MISC](#misc)
+- [Papers](#papers)
 
 ---
 
@@ -142,6 +143,13 @@
 - [discohook](https://discohook.org/) - Easily preview embeds
 - [gateway-queue](https://github.com/twilight-rs/gateway-queue) - Ratelimited gateway queue for multiserviced bots.
 - [http-proxy](https://github.com/twilight-rs/http-proxy) - A ratelimited HTTP proxy in front of the Discord API
+
+## Papers
+
+> Papers/articles about effective bot design
+
+- [Best practices for Discord bots](https://github.com/meew0/discord-bot-best-practices) (The original guide)
+- [FireController's Best practices for Discord bots](https://github.com/FireController1847/discord-bot-best-practices) - A more updated version of meew0's best practices
 
 ---
 
