@@ -150,6 +150,7 @@
 
 - [Best practices for Discord bots](https://github.com/meew0/discord-bot-best-practices) (The original guide)
 - [FireController's Best practices for Discord bots](https://github.com/FireController1847/discord-bot-best-practices) - A more updated version of meew0's best practices
+- [DasWolke's Microservice Bots](https://gist.github.com/DasWolke/c9d7dfe6a78445011162a12abd32091d) - From the creator of the WeatherStack
 
 ---
 
