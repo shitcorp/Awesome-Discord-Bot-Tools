@@ -131,6 +131,7 @@
 ### Rust
 
 - [serenity](https://github.com/serenity-rs/serenity) - A Rust library for the Discord API
+- [Songbird](https://github.com/serenity-rs/songbird) - Songbird is an async, cross-library compatible voice system for Discord, written in Rust.
 - [Twilight](https://twilight.rs/) - **twilight** is a powerful asynchronous, flexible, and scalable ecosystem of Rust libraries for the Discord API
 
 ## MISC
