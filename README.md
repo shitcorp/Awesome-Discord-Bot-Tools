@@ -11,6 +11,7 @@
   - [C#](#c-1)
   - [C++](#c-2)
   - [Crystal](#crystal)
+  - [Dart](#dart)
   - [Elixir](#elixir)
   - [Go](#go)
   - [JavaScript](#javascript)
@@ -51,6 +52,10 @@
 ### Crystal
 
 - [discordcr](https://github.com/shardlab/discordcr) - Minimalist Discord library for Crystal
+
+### Dart
+
+- [nyxx](https://github.com/nyxx-discord/nyxx) - Wrapper around Discord API for Dart
 
 ### Elixir
 
