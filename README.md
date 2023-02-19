@@ -136,6 +136,8 @@
 
 ## MISC
 
+> Items that doesn't fit into the other categories
+
 - [BotBlock.org](https://botblock.org/) - The single source for all Discord bot lists. Simplify sending your bot's guild count with the BotBlock API.
 - [discohook](https://discohook.org/) - Easily preview embeds
 - [gateway-queue](https://github.com/twilight-rs/gateway-queue) - Ratelimited gateway queue for multiserviced bots.
