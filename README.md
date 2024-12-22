@@ -30,6 +30,7 @@
 ## Alternate Gateways
 
 - [gateway-proxy](https://github.com/Gelbpunkt/gateway-proxy) - Drop-in proxy for Discord gateway connections and sessions allowing for zero downtime deploys
+- [nirn-proxy](https://github.com/germanoeich/nirn-proxy) - Distributed transparent REST proxy for the Discord API, handles ratelimits for you, multi-bot support, dynamic, version agnostic
 - [rateway](https://github.com/IdleRPGBot/rateway) (maybe dead) - A stateful gateway for Discord Bots. Scaling well, it processes messages from the Discord gateway and puts them in AMQP exchanges
 
 ---
